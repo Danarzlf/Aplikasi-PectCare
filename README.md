@@ -1,2 +1,2 @@
 # Aplikasi-PectCare
-Aplikasi Android PetCare yang dibuat menggunakan bahasa Java
+Aplikasi Android Perawatan dan Penitipan Hewan (PetCare) yang dibuat menggunakan bahasa Java
